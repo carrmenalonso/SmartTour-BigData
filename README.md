@@ -1,32 +1,56 @@
-# SmartTour Big Data
+# \# SmartTour Big Data
 
-Proyecto para analizar datos turísticos mediante tecnologías Big Data.
+# 
 
-## ¿Qué es este proyecto?
+# Proyecto académico de análisis Big Data aplicado al turismo.
 
-SmartTour Big Data es un proyecto desarrollado para trabajar con datos relacionados con el turismo mediante diferentes tecnologías y herramientas de Big Data e Inteligencia Artificial.
+# 
 
-## ¿Para qué sirve?
+# \## Objetivo
 
-El objetivo del proyecto es analizar datos turísticos para obtener información útil sobre la demanda turística y facilitar su análisis y visualización.
+# 
 
-## ¿Cómo se instala?
+# Crear una plataforma para analizar datos turísticos.
 
-Las instrucciones de instalación y configuración del proyecto se detallarán durante el desarrollo del laboratorio.
+# 
 
-## ¿Cómo se ejecuta?
+# \## Tecnologías
 
-Las instrucciones necesarias para ejecutar el proyecto se detallarán durante el desarrollo del laboratorio.
+# 
 
-## Tecnologías
+# \- Python
 
-* Python
-* Docker
-* JupyterLab
-* Pandas
-* Git
-* GitHub
+# \- Docker
 
-## Objetivo
+# \- JupyterLab
 
-Analizar datos turísticos mediante tecnologías Big Data y desarrollar herramientas que permitan trabajar con estos datos de forma eficiente.
+# \- GitHub
+
+# 
+
+# \## Estructura
+
+# 
+
+# datasets:
+
+# Datos utilizados en el proyecto.
+
+# 
+
+# scripts:
+
+# Programas Python.
+
+# 
+
+# notebooks:
+
+# Análisis realizados.
+
+# 
+
+# docs:
+
+# Documentación.
+
